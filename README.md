@@ -1,3 +1,3 @@
-[![Build Status](https://travis-ci.org/cbalb004/sturdy-parakeet.svg?branch=master)](https://travis-ci.org/cbalb004/sturdy-parakeet) [![npm](https://img.shields.io/npm/l/express.svg)]()
+[![Build Status](https://travis-ci.org/cbalb004/sturdy-parakeet.svg?branch=master)](https://travis-ci.org/cbalb004/sturdy-parakeet) [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
 # sturdy-parakeet
